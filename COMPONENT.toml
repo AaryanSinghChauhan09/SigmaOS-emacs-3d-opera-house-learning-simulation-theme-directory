@@ -3,7 +3,7 @@ name = "SigmaOS-emacs-3d-opera-house-learning-simulation-theme-directory"
 tier = 2
 stability = "scaffold"
 language = "rust"
-description = "emacs-3d-opera-house-learning-simulation-theme-directory component"
+description = "GitHub description is a placeholder; component scope remains unclassified."
 upstream = []
 
 [contract]
